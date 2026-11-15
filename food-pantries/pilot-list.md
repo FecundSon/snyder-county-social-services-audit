@@ -1,0 +1,69 @@
+# Snyder County, PA — Food Pantries / Food Distributions: Pilot List
+
+**County:** Snyder County, PA (county seat Middleburg; largest town Selinsgrove; other towns Shamokin Dam, Freeburg, Port Trevorton, McClure, Beaver Springs, Richfield, Mount Pleasant Mills, Kratzerville, Paxtonville, Beavertown, Hummels Wharf)
+**Category:** Food pantries / food distributions
+**Date compiled:** 2026-11-15
+**Status: NOT SENT YET.** This is the pilot list as found BEFORE checking — the directory's / secondary list's claim per listing, with claim sources listed. It is not the audit verdict. See `audit-report-2026-11-15.md` for what checking found.
+**Prepared with AI assistance (Muse). The auditor is NOT a local resident of Snyder County.**
+
+## Honest limit
+
+PA 211's search pages are JavaScript-driven and text fetch cannot pull a complete county-filtered list, so this is a partial pilot anchored on retrievable PA 211 items plus secondary lists plus organisations' own sites — NOT a complete county directory. A live-browser PA 211 Snyder County check is outstanding before any send.
+
+## How this list was built
+
+- Retrievable PA 211 items found by text fetch/search (search.pa211.org): Union-Snyder CAA Emergency Food Program / Emergency Food Clearinghouse, All Saints Episcopal Church — Martha's Table Community Meal, Selinsgrove Area Meals on Wheels — Meal Delivery. The PA 211 Food Pantries taxonomy page itself returned no complete extractable Snyder County result list by text fetch.
+- Central Pennsylvania Food Bank partner list as republished by HelpByState (helpbystate.com/pennsylvania/snyder-county/, last checked October 9, 2026 on that page): 9 food pantry / meal listings.
+- Union-Snyder Community Action Agency (union-snydercaa.org/food; CAA Food Pantry Schedules 2020 and 2021, PDFs) — the agency administers three pantries: Union County Food Program (Lewisburg), Loaves & Fishes (Selinsgrove), Five Barley Loaves (McClure).
+- Union-Snyder Agency on Aging, Older Adult Resources guide, May 30, 2025 (usaaa17.org) — FOOD section, Union & Snyder Counties.
+- Episcopal Diocese of Central Pennsylvania, Food Assistance Resources for Pennsylvania Families (diocesecpa.org, updated for the November 2026 federal shutdown / SNAP disruption).
+- Snyder County Times community calendar (Snyder County Times, via dewsecdn PDFs, Nov 2024–Feb 2026 issues) — Bread of Life (Paxtonville), Helping Hands Helping Others (Beavertown), Christ's Prayer Pantry (Selinsgrove), Five Barley Loaves dates.
+- Churches' own sites / Facebook pages as claim sources are noted per row; they were used for checking, not for building the pilot, except where stated.
+
+## Pilot rows (as found, before checking)
+
+### In-county candidates
+
+1. **Loaves and Fishes (Loaves & Fishes)** — Selinsgrove. Claim (HelpByState, from Central Pennsylvania Food Bank map): 400 N Market St, Selinsgrove, PA 17870; 4th Thursday, 12:30–2:00pm and 3:00–5:30pm, last week of month only; phone (570) 374-8749. Claim (CAA 2021 schedule; USAAA 2025 guide): St. Paul's UCC Church, 400 N Market St; last Friday of each month, 12:30–2:00pm; for Snyder County residents east of Rt. 104; income-based; phone in USAAA guide (570) 374-1458. Open question before checking: Thursday or Friday? Which phone?
+2. **Five Barley Loaves** — McClure. Claim (HelpByState, from CPFB map): 6 W Specht St, McClure, PA 17841; Friday 10:00–11:30am, last week of month only; no phone listed. Claim (CAA 2021 schedule): 6 W Specht St, McClure; last Friday, 10:00am–12:00pm; for Snyder County residents west of Rt. 104. Claim (needhelppayingbills.com): located "in Beaver Springs, PA 17812". Open question: McClure or Beaver Springs? 10–11, 10–11:30, or 10–12?
+3. **Grace Works Food Pantry (Grace Food Pantry)** — Middleburg. Claim (HelpByState, from CPFB map): 99 Cafe Ln, Middleburg, PA 17842; Monday 10:00–11:00am, Wednesday 5:00–6:00pm. Claim (USAAA 2025 guide): Grace Covenant Church, 99 Shuman St, Middleburg; Mondays 10–11am & Wednesdays 5–6pm; phone (570) 837-5809. Open question: Cafe Ln or Shuman St?
+4. **Martha's Table, All Saints Episcopal Church** — Selinsgrove. Claim (HelpByState, from CPFB map): free meals; 1st, 3rd and 5th Wednesday, 4:30–5:30pm; 129 N Market St, Selinsgrove, PA 17870; phone (570) 374-9872. Claim (PA 211 Free Meals, retrievable): 129 North Market St; (570) 374-8289; hot meals for takeout, first come first served. Open question: meal or pantry? Which phone? USAAA guide says 5–6pm.
+5. **Brookside Ministries Church** — Shamokin Dam. Claim (HelpByState, from CPFB map): food pantry; Sunday, Monday, Tuesday, Wednesday and Thursday, 9:00am–12:00pm; 11 Stetler Ave, Shamokin Dam, PA 17876. Phone in directories: (570) 743-5683. Open question: is 9am–12pm pantry hours, or church/office hours? No pantry schedule found on the church's own site before checking.
+6. **MilitaryShare — Selinsgrove, Post 25** — Selinsgrove. Claim (HelpByState, from CPFB map): food pantry; please call for hours; 524 South Market St, Selinsgrove, PA 17870. Claim (Central Pennsylvania Food Bank, MilitaryShare page): Snyder County — Post 25 Auxiliary Selinsgrove: 570.541.5155; clients must call ahead to pre-register and for distribution schedule. Open question: general pantry or military-households only?
+7. **Helping Hands Helping Others (Helping Hands, Helping Others, Inc.)** — Beavertown. Claim (HelpByState, from CPFB map): food pantry; please call for hours; 18207 Route 522, Beavertown, PA 17813. Claim (Beaver Lutheran Church newsletter, Fall 2025): distributes food each third Tuesday of the month at the pavilion of Beaver Lutheran Church. Open question: monthly 3rd Tuesday, or a weekly pantry?
+8. **Trinity United Methodist Church Food Pantry** — Middleburg. Claim (Diocese of Central Pennsylvania; USAAA 2025 guide): 51 South Main St, Middleburg, PA 17842; (570) 837-7661; 1st and 3rd Wednesday of the month, 10am–12pm and 5–6pm. Open question: closing time — noon, or 11:30am as in a January 2026 church Facebook post?
+9. **Union-Snyder Community Action Agency — Emergency Food Program** — Selinsgrove. Claim (PA 211, retrievable): 713 Bridge Street, Suite 10, Selinsgrove, PA 17870; (570) 374-0181; Monday, Wednesday, Thursday, Friday 8:30am–4:00pm, Tuesday 9:30am–4:00pm; residents of Union and Snyder counties in need of emergency food; call to answer screening questions; must pick up at location; delivery case by case; assistance between scheduled food pantries or distributions.
+10. **Union-Snyder Community Action Agency — Emergency Food Clearinghouse** — Selinsgrove. Claim (PA 211, retrievable, separate listing): 713 Bridge Street, Suite 10, Selinsgrove, PA 17870; (570) 374-0181; Monday, Wednesday, Thursday, Friday 8:30am–4:00pm, Tuesday 9:30am–4:00pm; residents of Union and Snyder Counties; "Maintains a list of contacts for emergency food needs." Open question before checking: is this a second service, or the same service as #9 listed twice?
+11. **Fresh Express Food Bank / Fleck and Friends Fresh Express (MACC)** — Beaver Springs. Claim (USAAA 2025 guide): Middlecreek Area Community Center (MACC), 67 Elm St, Beaver Springs; 1st and 3rd Tuesday of the month, 1:30pm until food runs out; phone (570) 658-2276. Claim (Trinity Lutheran Church, McClure, own site): "Every Tuesday at 1:30 p.m.: Food distribution at the MACC, Beaver Springs." Open question: weekly, or 1st/3rd Tuesday only?
+12. **Bread of Life (Bread of Life Ministry, Paxtonville Church)** — Paxtonville. Claim (Snyder County Times community calendar, Nov 2024, Jan 2026, Feb 2026): monthly distribution, Saturday from 9:30am (Nov 2024: 9:30–10:30am), Paxtonville Church, 1281 Paxton St, Paxtonville; one food donation per family; more than one family may come in a car. No phone or own site found before checking.
+13. **Christ's Prayer Pantry (Christ Prayer Pantry), Christ Community United Methodist Church** — Selinsgrove. Claim (church's own Facebook, Sep–Oct 2026; church newsletter, Mar 2026; Snyder County Times, Jan 2026): monthly drive-through food distribution, Saturday 10:00–11:00am, Christ Community UM Church, 3939 Park Rd, Selinsgrove, PA 17870. Church phone in directories: (570) 743-7303. Open question: is the Saturday 10–11am slot monthly or weekly?
+14. **Shepherd's Pie, St. Pius X Catholic Church** — Selinsgrove. Claim (USAAA 2025 guide): meals for pick-up last Thursday of each month, 112 Fairview Drive, Selinsgrove; phone (570) 374-4113. Claim (St. Pius X parish bulletins, Aug–Oct 2026): frozen meals made weekly; next food giveaway Thursday, October 29, 2026, 1:30–3:30pm; contact Sandy Corrigan, 570-743-3373. Open question: grocery pantry or prepared-meal giveaway?
+15. **Selinsgrove Area Meals on Wheels** — Selinsgrove. Claim (PA 211 Home Delivered Meals, retrievable; Raise the Region): 129 North Market St, Selinsgrove, PA 17870; (570) 374-6420; delivery of hot meals for persons unable or finding it difficult to prepare meals for themselves; serves within the Selinsgrove School District; 5 days a week. Open question: walk-in pantry, or home delivery only?
+16. **Victory Baptist Church** — Selinsgrove (Monroe Township). Claim (Central Susquehanna Intermediate Unit / LIU 18, Snyder County Resources PDF): listed under "Snyder County Food Pantries"; 56 Abby Road, Monroe Township, PA 17870; (570) 743-0770; vbaptist.com. No pantry schedule or pantry mention found on the church's own site before checking. Open question: does this church run a food pantry at all?
+17. **Central Pennsylvania Food Bank** — regional food bank (reference). Claim (PA Dept. of Human Services; needhelppayingbills.com): serves Snyder County among 27 counties; Harrisburg warehouse 3908 Corey Road, Harrisburg, PA 17109, (717) 564-1700; Williamsport warehouse 3301 Wahoo Drive, Williamsport, PA 17701, (570) 321-8023; helpline 1-877-999-5964; Find Food map at centralpafoodbank.org/find-help/find-food/. Open question: walk-in pantry, or warehouse / referral only?
+
+### Out-of-county candidates (checked for exclusion)
+
+18. **Love in Action Food Pantry** — New Columbia. Claim (HelpByState Union County page, from CPFB map): 257 Third Street, New Columbia, PA 17856; 3rd Wednesday, 3:00–6:00pm; phone in USAAA Snyder guide (570) 568-6835, in WrkInsideOut (570) 713-4145. Appears in the Union-Snyder guide's Snyder food list with no address. Open question: Union or Snyder County?
+19. **Lewisburg Food Pantry** — Lewisburg. Claim (CAA 2021 schedule; GivePulse): First Baptist Church, 51 S 3rd St, Lewisburg; 1st and 3rd Fridays, 1:30–3:30pm; for residents of Eastern Union County. Administered by CAA alongside the Snyder pantries.
+20. **Mifflinburg YMCA mobile distribution / Mifflinburg Express Food Pantry** — Mifflinburg. Claim (CAA 2021 schedule): Mifflinburg YMCA, 333 E Chestnut St, Mifflinburg, PA 17844; 3rd Fridays, 1:00–2:30pm; for residents of Western Union County. (An older listing gives 279 Market St, Mifflinburg.)
+21. **Elijah's Bowl, First Presbyterian Church** — Sunbury. Claim (USAAA 2025 guide; WrkInsideOut): 238 Market St, Sunbury; every Saturday 9am–12pm; phone (570) 286-7211; weekly community meal plus groceries. Appears in the Union-Snyder guide's food list.
+22. **Kate's Kupboard, St. John's Evangelical Lutheran Church** — Northumberland. Claim (Diocese of Central Pennsylvania): 300 Queen St, Northumberland; 3rd Saturday of the month, 9–11am; phone (570) 473-3770. Appears on "near Snyder County" lists.
+23. **Harvest Time Food Pantry** — Lewisburg. Claim (Diocese of Central Pennsylvania): 310 Market St, Lewisburg; Wednesday, 5:45–6:30pm; phone (570) 490-3321.
+24. **Union-Snyder CAA — Emergency Food Assistance / Food Hub, Miller Center** — Lewisburg. Claim (PA 211 Emergency Food Clearinghouses, retrievable): 120 Hardwood Drive, Miller Center for Recreation & Wellness' Cornerstone Kitchen, Lewisburg, PA 17837; (570) 374-0181. Claim (GivePulse): the Food Hub operates out of Miller Center's kitchen in Lewisburg and re-distributes food to 40+ food access programmes in Union and Snyder counties.
+25. **Salvation Army** — Sunbury (no Snyder County corps found). Claim (USAAA 2025 guide, FOOD section): "Salvation Army, 570-742-2005" with no address. Claim (LIU 18 Snyder County Resources PDF): "Salvation Army Sunbury". No Selinsgrove / Snyder County Salvation Army pantry, address, or hours found before checking.
+26. **Beacon Ministries, Beaver Memorial United Methodist Church** — Lewisburg. Claim (Diocese of Central Pennsylvania): 42 South 3rd St, Lewisburg; (570) 524-0809; 3rd Saturday of the month, 10am–12pm; personal care and household items.
+
+## Sources used to build the pilot
+
+- search.pa211.org — Emergency Food Clearinghouses; Food Banks/Food Distribution Warehouses; Free Meals; Home Delivered Meals (text fetch, 2026-11-15; retrievable items only, no complete county list).
+- helpbystate.com/pennsylvania/snyder-county/ (last checked October 9, 2026 on the page) and helpbystate.com/pennsylvania/union-county/.
+- union-snydercaa.org/food; union-snydercaa.org — USCAA Food Pantry Schedule 2021 (PDF) and U-S Food Pantry Schedules 2020 (PDF).
+- usaaa17.org — Older Adult Resources: Union & Snyder Counties, May 30, 2025 (PDF).
+- diocesecpa.org/parish-news/food-assistance-resources-for-pennsylvania-families/.
+- liu18.org — Snyder County Resources (PDF, Central Susquehanna Intermediate Unit).
+- saintpauls-ucc.org/events (St. Paul's UCC, Selinsgrove); trinitymcclure.com; allsaintsepiscopalofselinsgrove.com/home/ministries/marthas-table/; g3c.net; beaverlutheranchurch.org (Commentary newsletter, Fall 2025 / Apr 2025); centralpafoodbank.org/who-we-are/our-programs/militaryshare/.
+- Snyder County Times community calendar (dewsecdn PDFs, Nov 2024–Feb 2026).
+- needhelppayingbills.com — Snyder County assistance; Union-Snyder Community Action Agency.
+- givepulse.com/group/691854-caa-food-programs (Union-Snyder CAA Food Programs).
+- wrkinsideout.com/food-bank-resources.
